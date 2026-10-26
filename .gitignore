@@ -3,3 +3,7 @@
 /results/
 *.log
 *.tmp
+tmp/
+*.csv
+*.log
+.DS_Store
