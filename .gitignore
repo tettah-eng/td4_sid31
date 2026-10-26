@@ -1,0 +1,5 @@
+# Ignore data & outputs
+/data/
+/results/
+*.log
+*.tmp
